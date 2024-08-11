@@ -1,0 +1,3 @@
+[submodule "05-orchestration/rag-project"]
+	path = 05-orchestration/rag-project
+	url = https://github.com/mage-ai/rag-project
