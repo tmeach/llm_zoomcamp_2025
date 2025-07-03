@@ -1,0 +1,1 @@
+{"indexed_fields":{"diet[].food":"keyword","diet[].likes":"bool"},"skip_rocksdb":null}

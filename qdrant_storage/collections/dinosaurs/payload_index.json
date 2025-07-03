@@ -1,0 +1,1 @@
+{"schema":{"diet[].food":"keyword","diet[].likes":"bool"}}
